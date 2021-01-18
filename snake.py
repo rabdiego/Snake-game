@@ -172,7 +172,7 @@ def wasEaten(snake, food): # Will check if the snake eat the apple
 
 
 def gameOver(snake, food): # Will check if the snake is dead
-    global isGameOver, display, highScore
+    global isGameOver, display
     if snake.isDead():
         isGameOver = True # Then the isGameOver variable will return True
     if isGameOver:
