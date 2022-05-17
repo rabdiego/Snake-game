@@ -1,4 +1,4 @@
-# Snake-game
+# Snake Game
 Classic snake game made with python 3.8 and pygame 1.9.6
 
 ![image](screenshot.png)
