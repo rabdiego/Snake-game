@@ -12,6 +12,8 @@ Classic snake game made with python 3.8 and pygame 1.9.6
 | Programs used | VSCode, GIMP, FL Studio |
 
 ## How tu use
+You'll need the `pygame` module installed in order to run this program.
+
 Using the `wasd` keys, you can move the snake.
 
 You can see your current score in the bottom right corner.
